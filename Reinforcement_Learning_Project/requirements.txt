@@ -1,0 +1,25 @@
+# Environnements et simulation
+gym
+gymnasium
+openthechests
+pybullet
+
+# Deep Learning
+torch
+torchmetrics
+torchaudio
+torchvision
+
+# Reinforcement Learning
+stable-baselines3
+
+# Visualisation et logging
+imageio-ffmpeg
+matplotlib
+wandb
+
+# Traitement d’images
+opencv-python
+
+# Calcul scientifique
+numpy
